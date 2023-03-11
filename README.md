@@ -2,7 +2,7 @@
   <img src="image/sCUPT.jpg">
 </p>
 
-This project hosts the scripts for training and testing self-contrastive unregistered patchwise-learning translation (sCUPT) network, as presented in our paper: B. Shen, Y. Li, Y. Pan, Y. Guo, Y. Lu, R. Hu, J. Qu, L. Liu, Nonlinear optical imaging-based intelligent vision for fast intuitive label-free cancer diagnosis and tumor heterogeneous analysis.
+This project hosts the scripts for training and testing contrastive unregistered patchwise-learning translation (CUPT) network, as presented in our paper: B. Shen, Y. Li, Y. Pan, Y. Guo, Y. Lu, R. Hu, J. Qu, L. Liu, Nonlinear optical imaging-based intelligent vision for fast intuitive label-free cancer diagnosis and tumor heterogeneous analysis.
 
 
 ## Introduction
