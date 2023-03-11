@@ -1,0 +1,5 @@
+opencv-python
+dominate
+visdom
+packaging
+GPUtil
