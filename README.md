@@ -16,7 +16,7 @@ Label-free multiphoton (MP) excitation microscopy has emerged as a powerful tool
 ## MP, MPH and histopathological staining workflows 
 Label-free multi-contrast MP imaging procedure for quantitative analysis and standard histopathological procedure for experienced examination and structural annotation. The MP and histopathological images were trained in the self-contrastive learning network. 
 Top: neural network as bridge connects the MP imaging and the conventional histopathology with high accuracy and speed. 
-Bottom: label-free MP image, inferred MPH image, and histopathological image of a normal ovarian tissue.
+Bottom: label-free MP image, inferred MPH image, and histopathological image (Tens of microns apart) of a normal ovarian tissue.
 
 <p align="center">
   <img src="image/Supplementary video 1(compressed).gif">
