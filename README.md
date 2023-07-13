@@ -7,16 +7,22 @@ This project hosts the scripts for training and testing contrastive unregistered
 
 ## Introduction
 
-Tumor heterogeneity is of crucial importance for cancer diagnosis and in-depth pathological analysis despite the near-an-hour invasive histopathological examination and tedious bio-structural discrimination. Nonlinear optical microscopy has emerged as a powerful tool for visualizing biological structure at the molecular scale and quantifying tumor heterogeneity. However, this technique is subjected to abnormal, unintuitive interpretation of tumor microenvironment. Here, we combine real-time multi-contrast optical-section nonlinear optical microscopy and self-contrastive learning network to realize histopathology-like visualization, structural mapping, and heterogeneous analysis of clinicopathological tissues. We demonstrate label-free histological translation with high authenticity, staged classification with high accuracy, and bio-structural segmentation with high specificity. These are challenging without stain collaboration. Further integration with high-speed image acquisition and network denoising boosts the above tasks with running time advantages. Thereby, the contrastive learning-based deep translation method builds a bridge to connect the data-rich optical microscopy and the intuitive histological examination and structural discrimination, and hence enables toilless biomedical diagnosis and tumor heterogeneous analysis.
+Label-free multiphoton (MP) excitation microscopy has emerged as a powerful tool for visualizing biological structure at the molecular scale and quantifying tumor heterogeneity despite the uncommon and unintuitive interpretation of tumor microenvironment. We combine real-time multi-contrast multiphoton imaging and self-contrastive deep learning to realize histopathology-like visualization, structural mapping, and heterogeneous analysis of clinicopathological tissues. We demonstrate MP imaging-based histology (MPH) of intraoperative ovarian tissues with high authenticity and accuracy, which show superior performance to other widely used models. The virtual histology can be used for cancer staging with a combination of the simultaneously collected nonlinear signals. Moreover, the heterogeneity within tumors including different shapes of nuclei can be revealed by the label-free bio-structural segmentation. These are challenging without involvement of staining. Thereby, the self-contrastive deep learning method improves the readability and understanding of data of the optical microscopy, and hence enables toilless histological biomedical examination and nuclear heterogeneous analysis of tumor microenvironment.
 
 <p align="center">
   <img src="image/NOCV.jpg">
 </p>
 
+## MP, MPH and histopathological staining workflows and the corresponding results. 
+Label-free multi-contrast MP imaging procedure for quantitative analysis and standard histopathological procedure for experienced examination and structural annotation. The MP and histopathological images were trained in the self-contrastive learning network. 
+Top: neural network as bridge connects the MP imaging and the conventional histopathology with high accuracy and speed. 
+Bottom: label-free MP image, inferred MPH image, and histopathological image of a normal ovarian tissue.
+
 <p align="center">
   <img src="image/Supplementary video 1(compressed).gif">
 </p>
 
+## Network
 📕 Dependencies and Installation
 
 Python >= 3.7 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html))
