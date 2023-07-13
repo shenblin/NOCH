@@ -13,6 +13,9 @@ Tumor heterogeneity is of crucial importance for cancer diagnosis and in-depth p
   <img src="image/NOCV.jpg">
 </p>
 
+<p align="center">
+  <img src="image/Supplementary video 1(compressed).gif">
+</p>
 
 📕 Dependencies and Installation
 
