@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="image/sCUPT.jpg">
-</p>
+## Noninvasively intraoperative pathological diagnosis with multi-contrast multiphoton imaging and self-contrastive deep learning
 
 This project hosts the scripts for training and testing contrastive unregistered patchwise-learning translation (CUPT) network, as presented in our paper: B. Shen, Y. Li, Y. Pan, Y. Guo, Y. Lu, R. Hu, J. Qu, L. Liu, Label-free histopathology, classification, and segmentation of clinical ovarian cancer using multi-contrast multiphoton imaging and self-contrastive deep learning.
 
