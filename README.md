@@ -56,22 +56,8 @@ The input and ground truth paired images should have the same name.
     ```bash
     python test.py --dataroot datasets/test_dataset/MP_to_HE/ --name MP_to_HE --phase test --results_dir result_tiles
     ```
-    Breast
-    ```bash
-    python test.py --dataroot datasets/test_dataset/breast/Breast_RG/breast --name 2PA_SHG_to_HE --phase test --results_dir result_tiles/1/
-     ```
-    Skin
-    ```bash
-    python test.py --dataroot datasets/test_dataset/Skin/Skin_RG/Skin --name 2PA_SHG_to_HE --phase test --results_dir result_tiles/5/
-     ```
-    Segmentation
-    ```bash
-    python test.py --dataroot datasets/test_dataset/Nuclei_inpainting/Ovarian/ovarian_RGB_exp/ovarian_1 --name Nuclei_inpainting_MP --phase test --results_dir result_tiles
-     ```
-    Denoising
-    ```bash
-   python test.py --dataroot datasets/test_dataset/image_enhancement/resonant_4X/ovarian_1 --name image_enhancement --phase test --results_dir result_tiles
-     ```
+
+    
 📢 Results
 
 For more results and further analyses, please refer to our paper.
