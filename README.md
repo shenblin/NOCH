@@ -81,9 +81,7 @@ The input and ground truth paired images should have the same name.
 
 ## License and Acknowledgement
 
-📜 This project is released under the [Apache 2.0 license](license/LICENSE.txt).<br>
-More details about **license** and **acknowledgement** are in [LICENSE](license/README.md).
-
+📜 This project is released under the [LICENSE](LICENSE).<br>
 
  ## Citation
 
