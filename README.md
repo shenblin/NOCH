@@ -87,7 +87,7 @@ a–c, g–i, Glioblastoma IV; d–f, j–l, Oligoastrocytoma II–III. The unst
 <p align="center">
   <img src="image/Fig. S1.jpg">
 </p>
-__________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________
 
 Comparison of NODH results of different networks. 
 a, The SRS spectrum of lipid (blue) and protein (green), which compose the SRS images. b, Cycle-consistent module which transforms images between the two domains. c, Self-contrastive loss associating the sampled query and its positive, in contrast to negatives within the same image. d, Cross-contrastive loss associating the sampled query and its positive, in contrast to negatives from different images. Second to fourth columns present the virtually histological results. e, Conventional H&E histology including fixing tissue slide in acetic acid, staining with hematoxylin and eosin mixture, dehydrating with ethanol, and cleaning with xylene. Second to fourth columns correspond to the bright-field H&E images for reference. Scale bar, 50 μm.
