@@ -1,6 +1,6 @@
 ##  Contrastive Learning-based Nonlinear Optical Histopathology for Noninvasive Tissue Characterization
 
-This project hosts the scripts for training and testing contrastive unregistered patchwise-learning translation (CUPT) network, as presented in our paper: B. Shen, Y. Li, Y. Pan, Y. Guo, Y. Lu, R. Hu, J. Qu, L. Liu,  Contrastive Learning-based Nonlinear Optical Histopathology for Noninvasive Tissue Characterization.
+This project hosts the scripts for training and testing contrastive unregistered patchwise-learning translation (CUPT) network, as presented in our [Paper](assets/Manuscript.pdf)
 
 
 ## Introduction
