@@ -1,6 +1,6 @@
 ##  Contrastive Learning-based Nonlinear Optical Histopathology for Noninvasive Tissue Characterization
 
-This project hosts the scripts for training and testing contrastive unregistered patchwise-learning translation (CUPT) network, as presented in our [Paper](assets/Manuscript.pdf)
+This project hosts the scripts for training and testing contrastive unregistered patchwise-learning translation (CUPT) network, as presented in our [Paper](assets/Manuscript.pdf).
 
 
 ## Introduction
@@ -44,10 +44,9 @@ Python >= 3.7 (Recommend to use [Anaconda](https://www.anaconda.com/download/#li
 
 The input and ground truth paired images should have the same name.
 
+## Train and Test
 
-⚡ Train and Test
-
-- **Training and testing commands**: For single gpu, use the following command as example:
+⚡ **Training and testing commands**: For single gpu, use the following command as example:
 1. **Training**
     ```bash
     python train.py --dataroot datasets/train_dataset/Brain_SRS/SRS --name SRS_to_HE --save_epoch_freq 1
@@ -75,17 +74,18 @@ The input and ground truth paired images should have the same name.
     python test.py --dataroot datasets/test_dataset/Ovarian/MP_to_HE/ovarian_RGB/ovarian_1 --name MP_to_HE_cross_contrastive --phase test --results_dir result_tiles/1/ --epoch 80
     ```
     
-📢 Results
+## Results
 
-For more results and further analyses, please refer to our paper.
-
-
-📜 Acknowledgement
-
-Thanks [paper](https://arxiv.org/pdf/2007.15651) authers for the wonderful open source project!
+📢 **For more results and further analyses, please refer to our paper.**
 
 
-🌏 Citations
+## License and Acknowledgement
+
+📜 This project is released under the [Apache 2.0 license](license/LICENSE.txt).<br>
+More details about **license** and **acknowledgement** are in [LICENSE](license/README.md).
+
+
+ ## Citation
 
 If you find this work useful in your research, please consider citing the paper:
 
