@@ -7,7 +7,7 @@ import numpy as np
 epoch = '26'
 # epoch = 'latest'
 
-num_imgs = 11
+num_imgs = 10
 name = 'SRS_to_HE'
 # name = 'SRS_to_HE_cross_contrastive'
 # name = 'SRS_to_HE_self_patch3'
