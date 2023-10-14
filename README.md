@@ -76,7 +76,8 @@ Please refer to [DataPreparation](datasets/README.md) for data downloading. The 
     ```bash
     python test.py --dataroot datasets/test_dataset/Ovarian/MP_to_HE/ovarian_RGB/ovarian_1 --name MP_to_HE_cross_contrastive --phase test --results_dir result_tiles/1/ --epoch 80
     ```
-    
+
+
 ## Results
 
 <p align="center">
