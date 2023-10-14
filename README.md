@@ -12,8 +12,8 @@ Label-free nonlinear optical imaging (NLOI) modalities like multiphoton excited 
 </p>
 
 ## NLOI, NODH and histopathological staining workflows 
-Label-free multi-contrast nonlinear imaging procedure for quantitative analysis and standard histopathological procedure for experienced examination and structural annotation. The MP and histopathological images were trained in the self-contrastive learning network. 
-Top: neural network as bridge connects the MP imaging and the conventional histopathology with high accuracy and speed. 
+Label-free multi-contrast nonlinear imaging procedure for quantitative analysis and standard histopathological procedure for experienced examination and structural annotation. The multimodal multiphoton (MP) images and stimulated Raman scattering (SRS) images were converted into and histopathological images with the contrastive learning network. 
+Top: neural network as bridge connects the NLOI imaging and the conventional histopathology with high accuracy and speed. 
 Bottom: label-free MP image, inferred NODH image, and histopathological image of a normal ovarian tissue.
 
 <p align="center">
@@ -76,6 +76,7 @@ Please refer to [DataPreparation](datasets/README.md) for data downloading. The 
     ```bash
     python test.py --dataroot datasets/test_dataset/Ovarian/MP_to_HE/ovarian_RGB/ovarian_1 --name MP_to_HE_cross_contrastive --phase test --results_dir result_tiles/1/ --epoch 80
     ```
+
 
 
 ## Results
