@@ -39,12 +39,13 @@ Python >= 3.7 (Recommend to use [Anaconda](https://www.anaconda.com/download/#li
     pip install -r requirements.txt
     pip install torch==1.7.1+cu110 torchvision==0.8.2+cu110 -f https://download.pytorch.org/whl/torch_stable.html
     ```
-   
+
+## Train and Test
+ 
 📕 Dataset Preparation
 
 The input and ground truth paired images should have the same name.
 
-## Train and Test
 
 ⚡ **Training and testing commands**: For single gpu, use the following command as example:
 1. **Training**
