@@ -9,7 +9,7 @@ The MP data were captured by our multiphoton microscope with two aligned scanner
 
 After inference, stitch image tiles into origin size:
 
-[SRS data](brain_SRS_Stitch_Tiles.py)
+brain_SRS_Stitch_Tiles.py
 
-[MP data1](Stitch_Tiles_Ovary.py) and [MP data2](stitch_tiles.py) 
+Stitch_Tiles_Ovary.py and stitch_tiles.py
 
