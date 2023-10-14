@@ -75,7 +75,7 @@ def stitch_image_tiles(tiles_path, stitched_imgs_path, sample, rev_color='fault'
 
 
 
-for i in range(12, num_imgs):
+for i in range(5, num_imgs):
     result_imgs_path = 'results/{}/stitched_epoch_{}'.format(name, epoch)
 
     sample = 'ovarian_{}_MP'.format(str(i + 1))
