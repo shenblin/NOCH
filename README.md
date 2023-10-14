@@ -79,7 +79,7 @@ The input and ground truth paired images should have the same name.
 📢 **For more results and further analyses, please refer to our paper.**
 
 
-## License and Acknowledgement
+## License
 
 📜 This project is released under the [LICENSE](LICENSE).<br>
 
