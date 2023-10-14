@@ -78,16 +78,16 @@ The input and ground truth paired images should have the same name.
 ## Results
 
 <p align="center">
-  <img src="image/Figure 2.tif">
+  <img src="image/Figure 2.jpg">
 </p>
 
 Label-Free neurosurgical pathology using NODH. 
 a–c, g–i, Glioblastoma IV; d–f, j–l, Oligoastrocytoma II–III. The unstained SRS images (a,d,g,j) were merged by protein (green) and lipid (blue) image. The NODH network inferences (b,e,h,k) closely mirror the corresponding pathological morphology observed in the H&E histopathology. (c,f,i,l). Scale bar, 100 μm in a–f, 40 μm in g–l.
 
 <p align="center">
-  <img src="image/Fig. S1">
+  <img src="image/Fig. S1.jpg">
 </p>
-______________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________
 
 Comparison of NODH results of different networks. 
 a, The SRS spectrum of lipid (blue) and protein (green), which compose the SRS images. b, Cycle-consistent module which transforms images between the two domains. c, Self-contrastive loss associating the sampled query and its positive, in contrast to negatives within the same image. d, Cross-contrastive loss associating the sampled query and its positive, in contrast to negatives from different images. Second to fourth columns present the virtually histological results. e, Conventional H&E histology including fixing tissue slide in acetic acid, staining with hematoxylin and eosin mixture, dehydrating with ethanol, and cleaning with xylene. Second to fourth columns correspond to the bright-field H&E images for reference. Scale bar, 50 μm.
