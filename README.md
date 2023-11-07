@@ -1,4 +1,4 @@
-##  Contrastive Learning-based Nonlinear Optical Histopathology for Noninvasive Tissue Characterization
+## Noninvasive Nonlinear Optical Computational Histology
 
 This project hosts the scripts for training and testing unregistered contrastive patchwise-learning translation network, as presented in our [Paper]().
 
