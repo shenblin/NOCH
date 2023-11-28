@@ -13,8 +13,6 @@ Cancer remains a global health challenge, demanding early detection and accurate
 
 ## NLOI, NOCH and histopathological staining workflows 
 Label-free multi-contrast nonlinear imaging procedure for quantitative analysis and standard histopathological procedure for experienced examination and structural annotation. The multimodal multiphoton (MP) images and stimulated Raman scattering (SRS) images were converted into and histopathological images with the contrastive learning network. 
-Top: neural network as bridge connects the label-free nonlinear optical imaging and the conventional histopathology with high accuracy and speed. 
-Bottom: label-free MP image, inferred NOCH image, and histopathological image of a normal ovarian tissue.
 
 <p align="center">
   <img src="image/Supplementary video 1(compressed).gif">
