@@ -75,7 +75,7 @@ Please refer to [DataPreparation](datasets/README.md) for data downloading. The 
     python test.py --dataroot datasets/test_dataset/Ovarian/MP_to_HE/ovarian_RGB/ovarian_1 --name MP_to_HE_cross_contrastive --phase test --results_dir result_tiles/1/ --epoch 80
     ```
     
-For more large-image tests please refer to [SRS to HE](run_SRS_to_HE.sh) and [MP to HE](run_MP_to_HE.sh).
+For more large-image test commands please refer to [SRS to HE](run_SRS_to_HE.sh) and [MP to HE](run_MP_to_HE.sh).
 
 
 ## Results
