@@ -1,6 +1,6 @@
 ## Noninvasive Nonlinear Optical Computational Histology
 
-This project hosts the scripts for training and testing unregistered contrastive patchwise-learning translation network, as presented in our [Paper]().
+This project hosts the scripts for training and testing unregistered contrastive patchwise-learning translation network, as presented in our [Paper](https://doi.org/10.1002/advs.202308630).
 
 
 ## Introduction
