@@ -52,15 +52,10 @@ Please refer to [DataPreparation](datasets/README.md) for data downloading. The 
     ```bash
     python train.py --dataroot datasets/train_dataset/Brain_SRS/SRS --name SRS_to_HE --save_epoch_freq 1
     ```
-   ```bash
-    python train.py --dataroot datasets/train_dataset/Brain_SRS/SRS --name SRS_to_HE_cross_contrastive --save_epoch_freq 1 --nce_includes_all_negatives_from_minibatch True --batch_size 3
-    ```
     ```bash
     python train.py --dataroot datasets/train_dataset/Ovarian/MP_to_HE/ovarian_RGB --name MP_to_HE
     ```
-    ```bash
-    python train.py --dataroot datasets/train_dataset/Ovarian/MP_to_HE/ovarian_RGB --name MP_to_HE_cross_contrastive --nce_includes_all_negatives_from_minibatch True --batch_size 2
-    ```
+
 3. **Testing**
     ```bash
     python test.py --dataroot datasets/test_dataset/Brain_SRS/002 --name SRS_to_HE --phase test --results_dir result_tiles/2/  --epoch 26
