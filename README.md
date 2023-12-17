@@ -98,7 +98,6 @@ a, The SRS spectrum of lipid (blue) and protein (green), which compose the SRS i
 
 
 📢 **For more results and further analyses, please refer to our paper:**
-[B. Shen, Z. Li, Y. Pan, Y. Guo, Z. Yin, R. Hu, J. Qu, L. Liu, Noninvasive Nonlinear Optical Computational Histology. Adv. Sci. 2023, 2308630.](https://doi.org/10.1002/advs.202308630).
 
 
 ## License
@@ -109,7 +108,7 @@ a, The SRS spectrum of lipid (blue) and protein (green), which compose the SRS i
 
 If you find this work useful in your research, please consider citing the paper:
 
-B. Shen, et al.
+[B. Shen, Z. Li, Y. Pan, Y. Guo, Z. Yin, R. Hu, J. Qu, L. Liu, Noninvasive Nonlinear Optical Computational Histology. Adv. Sci. 2023, 2308630.](https://doi.org/10.1002/advs.202308630).
 
 📧 Contact
 
