@@ -42,9 +42,7 @@ Python >= 3.7 (Recommend to use [Anaconda](https://www.anaconda.com/download/#li
  
 📕 Dataset Preparation
 
-Please refer to [Checkpoints](checkpoints/Checkpoints_Download.md) for the pretrained checkpoints.
-
-Please refer to [DataPreparation](datasets/README.md) for data downloading. The input and ground truth paired images should have the same name.
+Please refer to [DataPreparation](datasets/README.md) for downloading of data and pretrained checkpoints. The input and ground truth paired images should have the same name.
 
 
 ⚡ **Training and testing commands**: For single gpu, use the following command as example:
