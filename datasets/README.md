@@ -1,6 +1,6 @@
 # Data download guide
 
-The data for training and testing NODH in the paper can be downloaded from: https://doi.org/10.5281/zenodo.10020760
+The data for training and testing NODH, as well as the pre-training weights in the paper can be downloaded from: https://doi.org/10.5281/zenodo.10020760
 
 The MP data were captured by our multiphoton microscope with two aligned scanners: galvo-resonant scanning for high-speed acquisition and dual-galvo scanning for high-quality imaging. The H&E data were captured by a wide-field microscope.
 
